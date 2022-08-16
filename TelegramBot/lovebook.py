@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('1318704228:AAFt5rrfP_dMc_yi6-dCNAOdyEUI1mRbmio')
+bot = telebot.TeleBot('')
 
 # создаем клавиатуру
 keyboard = types.InlineKeyboardMarkup()
