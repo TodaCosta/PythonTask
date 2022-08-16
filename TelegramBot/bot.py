@@ -12,7 +12,7 @@ from pytube import YouTube
 
 
 
-bot = telebot.TeleBot('5334247731:AAHwutUz6wSOe7Er7ge9DFfms6dxdHpmAB4')
+bot = telebot.TeleBot('')
 # создали объект класса, инициализировали его
 
 
