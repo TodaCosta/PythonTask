@@ -59,3 +59,4 @@ while True:
     else:
         print('Отлично,', name + '! Вы погасили долг. Спасибо!')
         break
+
